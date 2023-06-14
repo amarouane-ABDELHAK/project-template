@@ -1,6 +1,5 @@
 name: Feature request
-about: Suggest an idea for this project
-labels: enhancement, question
+description: Suggest an idea for this project
 
 body:
   - type: markdown
