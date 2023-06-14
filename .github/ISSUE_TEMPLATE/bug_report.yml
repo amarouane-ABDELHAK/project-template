@@ -36,12 +36,6 @@ body:
       render: shell
 
   - type: textarea
-    id: expected_behavior
-    attributes:
-      label: Expected Behavior
-      description: A clear and concise description of what you expected to happen.
-      render: shell
-  - type: textarea
     id: logs
     attributes:
       label: Relevant log output
